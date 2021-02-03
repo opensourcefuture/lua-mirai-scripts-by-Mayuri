@@ -1,6 +1,8 @@
 lua-mirai-scripts-by-Mayuri
 ==
 
+# README IS NOTHING
+
 ## Shortcut 
 
 ### Core
