@@ -35,3 +35,5 @@ All mirai SDK and all mirai launcher is based on mirai project.
 - [go-mirai](https://github.com/Logiase/gomirai)
 - [Mozilla Rhino](https://github.com/StageGuard/mirai-rhinojs-sdk)
 - [.NET-mirai](https://github.com/huajitech/mirai-http-dotnet-sdk)
+- [onebot2cq](https://github.com/Mrs4s/Onebot.Native)
+- [onebot2cq](https://github.com/super1207/MiraiCQ)
