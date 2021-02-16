@@ -25,6 +25,7 @@ All mirai SDK and all mirai launcher is based on mirai project.
 - [mirai-native](https://github.com/iTXTech/mirai-native)
 - [mirai-native-1.8.3](https://github.com/zhaodice/mirai-native)&nbsp;(&nbsp;A&nbsp;old&nbsp;version&nbsp;of&nbsp;MiraiNative&nbsp;)
 - [MiraiNative-CrossPlatform](https://github.com/w4123/MiraiNative-CrossPlatform)
+- [MiraiCQ](https://github.com/super1207/MiraiCQ)
 - [node-mirai](https://github.com/RedBeanN/node-mirai)
 - [js-mirai](https://github.com/iTXTech/mirai-js)
 - [Graia](https://github.com/GraiaProject/Application)
